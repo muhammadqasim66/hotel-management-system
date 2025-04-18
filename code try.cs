@@ -1,4 +1,7 @@
-﻿using System;
+//hotel management system
+//Name [Muhammad Qasim]
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -89,7 +92,7 @@ namespace htel
                     break;
                 }
 
-                Console.WriteLine("________________________________________");
+                Console.WriteLine("\nThanks you for using sydney hotel.Goodbye");
 
             }
 
